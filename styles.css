@@ -1,0 +1,3 @@
+.adPaneContainer, .noads, .adContainer, #responsiveBottomPanel {
+  display: none !important;
+}
