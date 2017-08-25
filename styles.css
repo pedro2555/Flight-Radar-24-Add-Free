@@ -16,6 +16,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Flight Radar 24 Add Free.  If not, see <http://www.gnu.org/licenses/>.
 */
-.adPaneContainer, .noads, .adContainer, #responsiveBottomPanel {
+.adPaneContainer, .noads, .adContainer, #responsiveBottomPanel, #disable-page-text, #modalBlackout {
   display: none !important;
 }
