@@ -9,6 +9,6 @@ A Google Chrome extension that, hopefuly, removes Flight Radar 24's ads.
 the extension.
 * On the __Chrome menu__, select __More Tools__, then __Extensions__.
 * Press the __Load unpacked extension...__ button (_if this option is not available, tick the __Developer Mode__ check box on top right corner_).
-* Select the folder where you extract these files.
+* Select the folder where you've extracted the files.
 
 Go check [Flight Radar 24](https://www.flightradar24.com)!
