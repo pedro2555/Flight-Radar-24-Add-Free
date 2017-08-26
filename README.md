@@ -1,6 +1,6 @@
 # Flight Radar 24 Add Free
 
-Removes, hopefuly, Flight Radar 24's ads.
+A Google Chrome extension that, hopefuly, removes Flight Radar 24's ads.
 
 ## Install
 
