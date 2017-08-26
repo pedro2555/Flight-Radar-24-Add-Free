@@ -8,7 +8,7 @@ Removes, hopefuly, Flight Radar 24's ads.
 * __Unzip it__ to a place of choice, this will be the final installation location for
 the extension.
 * On the __Chrome menu__, select __More Tools__, then __Extensions__.
-* Press the __Load unpacked extension...__ button.
+* Press the __Load unpacked extension...__ button (if this option is not available, tick the _Developer Mode_ check box on top right corner).
 * Select the folder where you extract these files.
 
 Go check [Flight Radar 24](https://www.flightradar24.com)!
