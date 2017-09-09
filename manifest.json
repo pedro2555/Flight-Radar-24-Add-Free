@@ -1,6 +1,6 @@
 {
   "name" : "Flight Radar 24 Add Free",
-  "version" : "0.1",
+  "version" : "0.3",
   "description" : "Removes, hopefuly, Flight Radar 24's ads.",
   "content_scripts": [ {
     "css": [ "styles.css" ],
