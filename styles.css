@@ -24,7 +24,11 @@ along with Flight Radar 24 Add Free.  If not, see <http://www.gnu.org/licenses/>
 /* text info displayed over the page when the session times out*/
 #modalBlackout,
 /*the wide banner on the right lower corner of the map*/
-#responsiveBottomPanel
+#responsiveBottomPanel,
+/*top panel on the new airport side drawer*/
+#cnt-panel-airport-flights-ad-top,
+/*bottom panel on the new airport side drawer*/
+#cnt-panel-airport-flights-ad-bottom
 {
   display: none !important;
 }
