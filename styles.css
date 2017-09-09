@@ -30,7 +30,9 @@ along with Flight Radar 24 Add Free.  If not, see <http://www.gnu.org/licenses/>
 /*bottom panel on the new airport side drawer*/
 #cnt-panel-airport-flights-ad-bottom,
 /*Flight selected side drawer bottom ad*/
-.adPaneSquareContainer
+.adPaneSquareContainer,
+/*from airport page*/
+.adsbygoogle
 {
   display: none !important;
 }
