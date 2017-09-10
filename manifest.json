@@ -1,7 +1,11 @@
 {
   "name" : "Flight Radar 24 Add Free",
-  "version" : "0.3",
+  "version" : "0.4",
+  "update_url": "https://raw.githubusercontent.com/pedro2555/Flight-Radar-24-Add-Free/master/updates.xml",
   "description" : "Removes, hopefuly, Flight Radar 24's ads.",
+  "icons": {"16"  : "icon16.png",
+            "48"  : "icon48.png",
+            "128" : "icon128.png" },
   "content_scripts": [ {
     "css": [ "styles.css" ],
     "matches": [ "https://www.flightradar24.com/*" ]
